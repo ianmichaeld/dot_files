@@ -1,2 +1,3 @@
 # dot_files
-Storage for configuration and dotFiles
+
+Storage for dotFiles and other configurations
