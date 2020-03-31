@@ -13,6 +13,8 @@ export ZSH="/Users/iandewsbury/.oh-my-zsh"
 
 export RBENV_ROOT="/Users/iandewsbury/.rbenv"
 
+export RUBY_CONFIGURE_OPTS="--with-openssl-dir=$(brew --prefix openssl@1.1)"
+
 # Left and right prompt variables and other settings 
 # for powerlevel9k theme
 # See https://github.com/bhilburn/powerlevel9k
